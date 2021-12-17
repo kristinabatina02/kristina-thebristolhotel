@@ -21,31 +21,31 @@ header{
 	width: 100px;
 	margin-left: 20px;
 }
-header nav{
+nav{
 	float: right;
 	text-align: right;
 }
-header nav ul {
+nav ul {
     list-style-type: none;
 }
-header nav ul li {
+nav ul li {
     display: inline-block;
     line-height: 100px;
     margin-right: 30px;
 	
 }
-header nav ul li a{
+nav ul li a{
 	font-size: 20px;
-	font-family: 'Rubik';
+	font-family: 'Open Sans';
 }
-header nav ul li .aktivna{
+nav ul li .aktivna{
 	color: #000000;
 }
-header nav ul li a{
+nav ul li a{
 	text-decoration: none;
 	color: #bb8d50;
 }
-header nav ul li a:hover{
+nav ul li a:hover{
 	color: #000000;
 }
 #pozadina{
@@ -86,7 +86,7 @@ header nav ul li a:hover{
 	font-family: 'Dancing Script';
 }
 #onama p{
-	font-family: 'Amiri';
+	font-family: 'IBM Plex Serif';
 	font-size: 20px;
 }
 .rezervacija{
@@ -164,7 +164,7 @@ header nav ul li a:hover{
 #druginaslov p{
 	color: #000;
 	font-size: 18px;
-	font-family: 'Rubik';
+	font-family: 'Open Sans';
 	padding-top: 50px;
 }
 #druginaslov input[type="button"]{
@@ -246,7 +246,7 @@ h1{
 	margin-bottom: 50px;
 }
 #sobe h1{
-	font-family: 'Amiri';
+	font-family: 'Balsamiq Sans';
 	font-size: 40px;
 	text-align: center;
 }
@@ -348,7 +348,7 @@ h1{
 	margin-bottom: 50px;
 }
 #oautoru h1{
-	font-family: 'Readex Pro';
+	font-family: 'Dancing Script';
 	font-size: 40px;
 	text-align: center;
 }
